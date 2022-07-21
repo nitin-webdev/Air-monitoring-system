@@ -1,1 +1,2 @@
 # Air-monitoring-system
+The existing monitoring systems are outdated and have very large size and weight, which limit their use. So, with the help of IOT we develop an AIR Quality Monitoring System using latest sensors and components. The device monitor the air in real time and show the air quality in PPM on the LCD screen and trigger an alarm when air quality goes down beyond a certain level, which means harmful gases (like CO, Methane, NH3 etc) are present in the air.
